@@ -1,0 +1,7 @@
+.env
+.space
+.vscode
+.venv
+__pycache__
+venv
+Spacefile
